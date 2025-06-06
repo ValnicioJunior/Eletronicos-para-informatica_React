@@ -1,1 +1,1 @@
-# Eletr-nicos-para-informatica_React
+# Eletronicos-para-informatica_React
