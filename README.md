@@ -1,1 +1,1 @@
-# Eletronicos-para-informatica_React
+# Hack Store: Eletronicos para informatica 
