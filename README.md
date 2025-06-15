@@ -30,11 +30,36 @@ HTML CSS
 **Kanban de Organização**
 As tarefas deste projeto estão organizadas no Kanban do GitHub, acessível neste link.
 
-**Time de Desenvolvimento**
+</div>
+<h2>🔷 Autores:</h2>
+<div>
+  <table>
+    <tr>
+      <td align="center">
+        <a href="https://github.com/PedroFontenel" >
+          <img src="https://avatars.githubusercontent.com/u/191796822?v=4" alt="Pedro Magno"
+            width="100px" >
+          <br>
+          <sub><b>Pedro Magno</b></sub>
+        </a>
+      </td>
+      <td align="center">
+        <a href="https://github.com/kaishiix">
+          <img src="https://avatars.githubusercontent.com/u/200096745?v=4" alt="Rômulo Nascimento"
+            width="100px" />
+          <br />
+          <sub><b>Rômulo Nascimento</b></sub>
+        </a>
+      </td>
+      <td align="center">
+          <a href="https://github.com/ValnicioJunior">
+            <img src="https://avatars.githubusercontent.com/u/206711598?v=4" alt="Valnicio Junior"
+             width="100px"/>
+            <br />
+            <sub><b>Valnicio Junior</b></sub>
+          </a>
+      </td>
+    </tr>
+  </table>
+</div>
 
-Valdenico - @seu-usuario
-Romulo - @seu-usuario
-Pedro - @seu-usuario
-XXX - @seu-usuario
-XXX - @seu-usuario
-XXX - @seu-usuario
