@@ -1,4 +1,4 @@
-# 🏬💻 Hack Store: Eletronicos para informatica 
+## 🏬💻 Hack Store: Eletronicos para informatica ##
 Sistema desenvolvido em React para gerenciar produtos de uma loja de eletrônicos. o sistema possui funcionalidades como listar, cadastar, editar e remover produtos, com integração a um banco de dados em JSON.
 
 # 🔗 Acesse o projeto publicado: #  
@@ -33,7 +33,7 @@ HTML CSS
 As tarefas deste projeto estão organizadas no Kanban do GitHub, acessível neste link.
 
 </div>
-<h2>🔷 Autores:</h2>
+<h2>🔷 Autores:</h2> 
 <div>
   <table>
     <tr>
