@@ -29,7 +29,7 @@ Sistema desenvolvido em React para gerenciar produtos de uma loja de eletrônico
 React
 HTML CSS
 
-## 📆 Kanban de Organização* #
+## 📆 Kanban de Organização #
 As tarefas deste projeto estão organizadas no Kanban do GitHub, acessível neste link.
 
 </div>
